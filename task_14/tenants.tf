@@ -1,5 +1,4 @@
 variable "tenants" {
-  type = list(string)
 }
 
 module "tenant" {
